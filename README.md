@@ -5,7 +5,6 @@ A modern take on the classic Nokia Snake game, controlled entirely with hand ges
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ##  Why I Built This
 
