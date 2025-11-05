@@ -44,7 +44,7 @@ Control the snake by simply pointing your finger in the direction you want to mo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gesture-snake-game.git
+   git clone https://github.com/samuel-isr/gesture-snake-game.git
    cd gesture-snake-game
    ```
 
